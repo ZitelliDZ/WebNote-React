@@ -1,0 +1,37 @@
+
+
+header {
+	color: #fff;
+}
+header  a {
+	color: #fff;
+	text-decoration: none;
+}
+.logomenu {
+	background: #24252A;
+}
+.logomenu .logo{
+	padding-top: 10px;
+}
+
+.container-fluid{
+	padding: 0px 50px 0px 50px;
+}
+.logomenu h2{
+	font-family: 'Monoton';
+	font-size: 40px;
+}
+.logomenu .menu a{
+	
+	text-decoration: none;
+	display: inline-block;
+	padding: 20px 20px;
+	transition: all 0.3s ease 0s;
+}
+
+.logomenu .menu a:hover{
+	color: #0088a9;
+	text-decoration: none;
+	border-bottom: 4px solid #FA8B8B;
+	padding: 16px 40px;
+}
